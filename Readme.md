@@ -16,10 +16,10 @@ Money - Transfer
 
 В процессе тестирования использовались следующие артефакты*:
 * [Описание дефектов](https://github.com/Darya9810/moneyTransfer1/issues/1#issue-1064999369)
-* [Отчет о тестировании]()
+* [Отчет о тестировании](https://raw.githubusercontent.com/Darya9810/moneyTransfer1/main/Readme.md)
 
 
-В качестве тестовых данных использовались данные <https://github.com/netology-code/javaqa-homeworks/blob/master/intro/MERGED.md>:
+[В качестве тестовых данных использовались данные](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/MERGED.md):
 * Сумма двух переменных равна 2500_000_000
 
 Тестирование производилось в следующем окружении:
