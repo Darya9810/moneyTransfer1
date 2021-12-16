@@ -4,12 +4,12 @@ Money - Transfer
 
 27.11.2021г. - 27.11.2021г. 
 было проведено дымное тестирование 
-приложения IntelliJ IDEA Community Edition 2019.2.4 x64
+приложения MoneyTransfer
 
 На тестирование затрачено: 2 часа
 
 В результате тестирования выявлены следующие дефекты:
-* [Дефекты Money Transfer](https://github.com/Darya9810/moneyTransfer1/issues/1#issue-1064999369)
+* [Ошибка в типе переменной](https://github.com/Darya9810/moneyTransfer1/issues/1#issue-1064999369)
 
 
 ## Описание процесса тестирования
@@ -19,7 +19,6 @@ Money - Transfer
 * [Отчет о тестировании](https://raw.githubusercontent.com/Darya9810/moneyTransfer1/main/Readme.md)
 
 
-[В качестве тестовых данных использовались данные](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/MERGED.md):
 * Сумма двух переменных равна 2500_000_000
 
 Тестирование производилось в следующем окружении:
