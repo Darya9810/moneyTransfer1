@@ -9,10 +9,7 @@ Money - Transfer
 На тестирование затрачено: 2 часа
 
 В результате тестирования выявлены следующие дефекты:
-* [Сумма чисел не совпадает с правильным ответом](https://github.com/Darya9810/moneyTransfer1/issues/1#issue-1064999369)
-
-
-## Описание процесса тестирования
+* [Выдает ошибку при пополнении текушего счета в банке](https://github.com/Darya9810/moneyTransfer1/issues/1#issue-1064999369)
 
 В процессе тестирования использовались следующие артефакты*:
 * [Отчет о тестировании](https://raw.githubusercontent.com/Darya9810/moneyTransfer1/main/Readme.md)
